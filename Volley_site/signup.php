@@ -46,8 +46,8 @@
         <input name="email" type="email" required="required" id="email" size="30" maxlength="30">
       </p>
       <p>
-        <label for="date">Date:</label>
-        <input name="date" type="date" required="required" size="30" id="date">
+        <label for="date">Date of Birth:</label>
+        <input name="date" type="date" required="required" id="date" max="2015-01-01" min="1950-01-01" size="30">
       </p>
       <p>
         <label for="select">Competition Day:</label>  
@@ -65,7 +65,7 @@
         <textarea name="textarea" id="textarea">Participants in Diggers Beach Volleyball play at their own risk and are responsible for their own safety and should only play if they are capable. Check with your doctor before you begin.
 Game fees must be paid prior to the start of the game. Games may be cancelled up to 4 hours beforehand to get a refund. Without 4 hours' notice, participants will forfeit the game and be charged 50% of the game fee.
 </textarea>
-        <input type="checkbox" name="checkbox" id="checkbox">
+        <input name="checkbox" type="checkbox" required="required" id="checkbox">
       I have read and agree to Diggers Beach Volleyball Playing Guidelines<p>
         <input type="submit" name="submit" id="submit" value="Submit">
         <input type="reset" name="reset" id="reset" value="Reset">
