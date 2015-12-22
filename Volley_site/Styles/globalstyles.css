@@ -82,7 +82,7 @@ li
 	text-align:center;
 	border-top:3px solid #00cacd;
 	border-bottom:3px solid #00cacd;
-	margin-bottom:10px;
+	margin-bottom:0px;
 }
 
 li a 
@@ -173,7 +173,7 @@ img
 
 .contact
 {
-	margin-top:50px;
+	margin-top:40px;
 	margin-left:80px;
 	margin-right:250px;
 	line-height:25px;
@@ -227,8 +227,8 @@ form
 
 .img3
 {
-	margin-left:40px;
-	margin-right:40px;
+	position:relative;
+	margin-top:0px;
 }
 
 input

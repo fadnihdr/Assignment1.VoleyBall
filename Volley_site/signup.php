@@ -10,7 +10,7 @@
 <!-- TemplateBeginEditable name="body-css" -->
 <div id="container">
   <div id="banner">
-    <h1><a href="index.html">Digger's Beach Volleyball</a></h1>
+    <h1><a href="index.html">Diggers Beach Volleyball</a></h1>
   </div>
   <ul class="navbar">
     <li> <a href="who-can-play.html"> Who can play? </a> </li>
@@ -51,7 +51,7 @@
       </p>
       <p>
         <label for="select">Competition Day:</label>  
-        <select name="select" required="required" id="select">  <option value="">Select...</option>
+        <select name="select" required id="select">  <option value="">Select...</option>
   <option value="Mon">Monday</option>
   <option value="Tue">Tuesday</option>
   <option value="Wed">Wednesday</option>
@@ -66,7 +66,7 @@
 Game fees must be paid prior to the start of the game. Games may be cancelled up to 4 hours beforehand to get a refund. Without 4 hours' notice, participants will forfeit the game and be charged 50% of the game fee.
 </textarea>
         <input type="checkbox" name="checkbox" id="checkbox">
-      I have read and agree to Digger's Beach Volleyball Playing Guidelines<p>
+      I have read and agree to Diggers Beach Volleyball Playing Guidelines<p>
         <input type="submit" name="submit" id="submit" value="Submit">
         <input type="reset" name="reset" id="reset" value="Reset">
       </p>
